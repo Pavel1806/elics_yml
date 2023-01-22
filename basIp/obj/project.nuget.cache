@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "RnTZ6iC/OWrY/A/oW8iheV7M7LeWmTW6U+0D6h6Ezifn2C885oSMbhKs9LMWp4LD5I4I9xKsgJk1QTqd4LJZaQ==",
+  "success": true,
+  "projectFilePath": "D:\\VisualStudio\\repos\\basIp\\basIp\\basIp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\User\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

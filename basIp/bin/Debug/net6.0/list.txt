@@ -1,0 +1,548 @@
+https://bas-ip.su/catalog/sistema-svyazi/cm-01-silver;CM-01 SILVER;3;1367;EUR
+https://bas-ip.su/catalog/ip-domofony/au-04la-black;AU-04LA BLACK;1;11610;RUR
+https://bas-ip.su/catalog/ip-domofony/au-04la-white;AU-04LA WHITE;1;11610;RUR
+https://bas-ip.su/catalog/ip-domofony/am-02-black;AM-02 BLACK;1;64800;RUR
+https://bas-ip.su/catalog/ip-domofony/at-07l-black;AT-07L BLACK;1;31950;RUR
+https://bas-ip.su/catalog/ip-domofony/at-07l-white;AT-07L WHITE;1;31950;RUR
+https://bas-ip.su/catalog/ip-domofony/at-07l-silver;AT-07L SILVER;1;31950;RUR
+https://bas-ip.su/catalog/ip-domofony/sp-03-white;SP-03 WHITE;1;8010;RUR
+https://bas-ip.su/catalog/ip-domofony/sp-03-black;SP-03 BLACK;1;8010;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/aa-11b-silver;AA-11B SILVER;2;53550;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/aa-11bv-silver;AA-11BV SILVER;2;53550;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/aa-12fb-black;AA-12FB BLACK;2;80100;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/aa-12fb-gold;AA-12FB GOLD;2;80100;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/aa-12fb-silver;AA-12FB SILVER;2;80100;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/aa-14fb-silver;AA-14FB SILVER;2;116550;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/aa-14fb-black;AA-14FB BLACK;2;116550;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/aa-14fb-gold;AA-14FB GOLD;2;116550;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-01bd-gray;AV-01BD GRЕY;2;30870;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-01kd-gray;AV-01KD GRЕY;2;17000;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-01mfd-gray;AV-01MFD GRЕY;2;17000;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-03bd-black;AV-03BD BLACK;2;26550;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-03bd-silver;AV-03BD SILVER;2;26550;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-03d-black;AV-03D BLACK;2;16650;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-03d-silver;AV-03D SILVER;2;16650;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-04fd-silver;AV-04FD SILVER;2;20160;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-04sd-silver;AV-04SD SILVER;2;20160;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-04afd-silver;AV-04AFD SILVER;2;18540;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-04afd-red;AV-04AFD RED;2;18540;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-04afd-green;AV-04AFD GREEN;2;18540;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/ba-04bd-silver;BA-04BD SILVER;2;47250;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/ba-08b-silver;BA-08B SILVER;2;455;EUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/bi-02fb-gold;BI-02FB GOLD;2;74880;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/bi-02fb-black;BI-02FB BLACK;2;74880;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/bi-02fb-silver;BI-02FB SILVER;2;74880;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/bi-04fb-black;BI-04FB BLACK;2;74880;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/bi-04fb-gold;BI-04FB GOLD;2;74880;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/bi-04fb-silver;BI-04FB SILVER;2;74880;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/bi-08fb-black;BI-08FB BLACK;2;75870;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/bi-08fb-gold;BI-08FB GOLD;2;75870;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/bi-08fb-silver;BI-08FB SILVER;2;75870;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/bi-12fb-black;BI-12FB BLACK;2;76050;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/bi-12fb-gold;BI-12FB GOLD;2;76050;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/bi-12fb-silver;BI-12FB SILVER;2;76050;RUR
+https://bas-ip.su/catalog/sistema-svyazi/cv-01fd-silver;CV-01FD SILVER;3;346;EUR
+https://bas-ip.su/catalog/sistema-svyazi/cv-01sd-silver;CV-01SD SILVER;3;346;EUR
+https://bas-ip.su/catalog/sistema-svyazi/cv-02fd-silver;CV-02FD SILVER;3;361;EUR
+https://bas-ip.su/catalog/sistema-svyazi/cv-02sd-silver;CV-02SD SILVER;3;361;EUR
+https://bas-ip.su/catalog/aksessuary/sh-46t-black;SH-46T BLACK;4;7290;RUR
+https://bas-ip.su/catalog/aksessuary/sh-46t-silver;SH-46T SILVER;4;7290;RUR
+https://bas-ip.su/catalog/aksessuary/sh-45tr-silver;SH-45TR SILVER;4;7200;RUR
+https://bas-ip.su/catalog/aksessuary/sh-45tr-black;SH-45TR BLACK;4;7200;RUR
+https://bas-ip.su/catalog/aksessuary/sh-45r-silver;SH-45R SILVER;4;7200;RUR
+https://bas-ip.su/catalog/aksessuary/sh-45r-black;SH-45R BLACK;4;7200;RUR
+https://bas-ip.su/catalog/aksessuary/sh-47t-silver;SH-47T SILVER;4;6840;RUR
+https://bas-ip.su/catalog/aksessuary/sh-47t-black;SH-47T BLACK;4;6840;RUR
+https://bas-ip.su/catalog/aksessuary/sh-01e;SH-01E;4;3;EUR
+https://bas-ip.su/catalog/aksessuary/sh-03;SH-03;4;1080;RUR
+https://bas-ip.su/catalog/aksessuary/sp-sp-white;SP-SP WHITE;4;2070;RUR
+https://bas-ip.su/catalog/aksessuary/sp-sp-black;SP-SP BLACK;4;2070;RUR
+https://bas-ip.su/catalog/aksessuary/sp-au-white;SP-AU WHITE;4;2070;RUR
+https://bas-ip.su/catalog/aksessuary/sp-au-black;SP-AU BLACK;4;2070;RUR
+https://bas-ip.su/catalog/aksessuary/cr-02bd-black;CR-02BD BLACK;4;26550;RUR
+https://bas-ip.su/catalog/aksessuary/cr-02bd-silver;CR-02BD SILVER;4;26550;RUR
+https://bas-ip.su/catalog/aksessuary/cr-02bd-gold;CR-02BD GOLD;4;26550;RUR
+https://bas-ip.su/catalog/aksessuary/sh-2016;SH-20.16;4;22860;RUR
+https://bas-ip.su/catalog/aksessuary/sh-208;SH-20.8;4;9450;RUR
+https://bas-ip.su/catalog/aksessuary/sh-204;SH-20.4;4;5220;RUR
+https://bas-ip.su/catalog/aksessuary/sh-40;SH-40;4;1045;RUR
+https://bas-ip.su/catalog/aksessuary/evrc-ip;EVRC-IP;4;50850;RUR
+https://bas-ip.su/catalog/aksessuary/bme-03;BME-03;4;11790;RUR
+https://bas-ip.su/catalog/aksessuary/ups-dp-s;UPS-DP/S;4;6480;RUR
+https://bas-ip.su/catalog/aksessuary/sh-42;SH-42;4;1620;RUR
+https://bas-ip.su/catalog/aksessuary/br-sh45-black;BR-SH45 BLACK;4;3690;RUR
+https://bas-ip.su/catalog/aksessuary/br-sh45-silver;BR-SH45 SILVER;4;3690;RUR
+https://bas-ip.su/catalog/aksessuary/br-av2-silver;BR-AV2 SILVER;4;6570;RUR
+https://bas-ip.su/catalog/aksessuary/br-av2-black;BR-AV2 BLACK;4;6570;RUR
+https://bas-ip.su/catalog/aksessuary/br-av;BR-AV;4;6570;RUR
+https://bas-ip.su/catalog/aksessuary/br-av2;BR-AV2;4;6570;RUR
+https://bas-ip.su/catalog/aksessuary/br-av7-black;BR-AV7 BLACK;4;25;EUR
+https://bas-ip.su/catalog/aksessuary/br-av7-silver;BR-AV7 SILVER;4;25;EUR
+https://bas-ip.su/catalog/aksessuary/br-aa-stainless;BR-AA STAINLESS;4;12600;RUR
+https://bas-ip.su/catalog/aksessuary/br-aa;BR-AA;4;12600;RUR
+https://bas-ip.su/catalog/aksessuary/br-aa12-silver;BR-AA12 SILVER;4;9900;RUR
+https://bas-ip.su/catalog/aksessuary/br-aa12-black;BR-AA12 BLACK;4;9900;RUR
+https://bas-ip.su/catalog/aksessuary/br-aa12-gold;BR-AA12 GOLD;4;9900;RUR
+https://bas-ip.su/catalog/aksessuary/br-aa14-silver;BR-AA14 SILVER;4;9900;RUR
+https://bas-ip.su/catalog/aksessuary/br-aa14-black;BR-AA14 BLACK;4;9900;RUR
+https://bas-ip.su/catalog/aksessuary/br-aa14-gold;BR-AA14 GOLD;4;9900;RUR
+https://bas-ip.su/catalog/aksessuary/bf-ba;BF-BA;4;26;EUR
+https://bas-ip.su/catalog/aksessuary/bf-av7;BF-AV7;4;12;EUR
+https://bas-ip.su/catalog/ip-domofony/at-10-black;AT-10 BLACK;11;45450;RUR
+https://bas-ip.su/catalog/ip-domofony/at-10-white;AT-10 WHITE;1;45450;RUR
+https://bas-ip.su/catalog/ip-domofony/at-10-gold;AT-10 GOLD;1;45450;RUR
+https://bas-ip.su/catalog/ip-domofony/aq-07ll-black;AQ-07LL BLACK;1;16650;RUR
+https://bas-ip.su/catalog/ip-domofony/aq-07ll-white;AQ-07LL WHITE;1;16650;RUR
+https://bas-ip.su/catalog/aksessuary/sh-45e-black;SH-45E BLACK;4;4860;RUR
+https://bas-ip.su/catalog/aksessuary/sh-45e-silver;SH-45E SILVER;4;54;EUR
+https://bas-ip.su/catalog/aksessuary/sh-02m-red;SH-02M RED;4;495;RUR
+https://bas-ip.su/catalog/aksessuary/br-av2-gold;BR-AV2 GOLD;4;6570;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/aa-07bd-silver;AA-07BD SILVER;2;53910;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/aa-07fb-silver;AA-07FB SILVER;2;71910;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-05sd-silver;AV-05SD SILVER;2;22950;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-05sd-black;AV-05SD BLACK;2;22950;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-05sd-gold;AV-05SD GOLD;2;22950;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-05fd-silver;AV-05FD SILVER;2;22950;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-05fd-black;AV-05FD BLACK;2;22950;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-05fd-gold;AV-05FD GOLD;2;22950;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-08fb-silver;AV-08FB SILVER;2;38250;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-08fb-gold;AV-08FB GOLD;2;38250;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-08fb-black;AV-08FB BLACK;2;38250;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-01md-grey;AV-01MD GRЕY;2;17000;RUR
+https://bas-ip.su/catalog/sistema-svyazi/cm-01-silver;CM-01 SILVER;3;1367;EUR
+https://bas-ip.su/catalog/ip-domofony/au-04la-black;AU-04LA BLACK;1;11610;RUR
+https://bas-ip.su/catalog/ip-domofony/au-04la-white;AU-04LA WHITE;1;11610;RUR
+https://bas-ip.su/catalog/ip-domofony/am-02-black;AM-02 BLACK;1;64800;RUR
+https://bas-ip.su/catalog/ip-domofony/at-07l-black;AT-07L BLACK;1;31950;RUR
+https://bas-ip.su/catalog/ip-domofony/at-07l-white;AT-07L WHITE;1;31950;RUR
+https://bas-ip.su/catalog/ip-domofony/at-07l-silver;AT-07L SILVER;1;31950;RUR
+https://bas-ip.su/catalog/ip-domofony/sp-03-white;SP-03 WHITE;1;8010;RUR
+https://bas-ip.su/catalog/ip-domofony/sp-03-black;SP-03 BLACK;1;8010;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/aa-11b-silver;AA-11B SILVER;2;53550;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/aa-11bv-silver;AA-11BV SILVER;2;53550;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/aa-12fb-black;AA-12FB BLACK;2;80100;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/aa-12fb-gold;AA-12FB GOLD;2;80100;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/aa-12fb-silver;AA-12FB SILVER;2;80100;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/aa-14fb-silver;AA-14FB SILVER;2;116550;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/aa-14fb-black;AA-14FB BLACK;2;116550;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/aa-14fb-gold;AA-14FB GOLD;2;116550;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-01bd-gray;AV-01BD GRЕY;2;30870;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-01kd-gray;AV-01KD GRЕY;2;17000;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-01mfd-gray;AV-01MFD GRЕY;2;17000;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-03bd-black;AV-03BD BLACK;2;26550;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-03bd-silver;AV-03BD SILVER;2;26550;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-03d-black;AV-03D BLACK;2;16650;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-03d-silver;AV-03D SILVER;2;16650;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-04fd-silver;AV-04FD SILVER;2;20160;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-04sd-silver;AV-04SD SILVER;2;20160;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-04afd-silver;AV-04AFD SILVER;2;18540;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-04afd-red;AV-04AFD RED;2;18540;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-04afd-green;AV-04AFD GREEN;2;18540;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/ba-04bd-silver;BA-04BD SILVER;2;47250;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/ba-08b-silver;BA-08B SILVER;2;455;EUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/bi-02fb-gold;BI-02FB GOLD;2;74880;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/bi-02fb-black;BI-02FB BLACK;2;74880;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/bi-02fb-silver;BI-02FB SILVER;2;74880;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/bi-04fb-black;BI-04FB BLACK;2;74880;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/bi-04fb-gold;BI-04FB GOLD;2;74880;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/bi-04fb-silver;BI-04FB SILVER;2;74880;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/bi-08fb-black;BI-08FB BLACK;2;75870;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/bi-08fb-gold;BI-08FB GOLD;2;75870;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/bi-08fb-silver;BI-08FB SILVER;2;75870;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/bi-12fb-black;BI-12FB BLACK;2;76050;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/bi-12fb-gold;BI-12FB GOLD;2;76050;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/bi-12fb-silver;BI-12FB SILVER;2;76050;RUR
+https://bas-ip.su/catalog/sistema-svyazi/cv-01fd-silver;CV-01FD SILVER;3;346;EUR
+https://bas-ip.su/catalog/sistema-svyazi/cv-01sd-silver;CV-01SD SILVER;3;346;EUR
+https://bas-ip.su/catalog/sistema-svyazi/cv-02fd-silver;CV-02FD SILVER;3;361;EUR
+https://bas-ip.su/catalog/sistema-svyazi/cv-02sd-silver;CV-02SD SILVER;3;361;EUR
+https://bas-ip.su/catalog/aksessuary/sh-46t-black;SH-46T BLACK;4;7290;RUR
+https://bas-ip.su/catalog/aksessuary/sh-46t-silver;SH-46T SILVER;4;7290;RUR
+https://bas-ip.su/catalog/aksessuary/sh-45tr-silver;SH-45TR SILVER;4;7200;RUR
+https://bas-ip.su/catalog/aksessuary/sh-45tr-black;SH-45TR BLACK;4;7200;RUR
+https://bas-ip.su/catalog/aksessuary/sh-45r-silver;SH-45R SILVER;4;7200;RUR
+https://bas-ip.su/catalog/aksessuary/sh-45r-black;SH-45R BLACK;4;7200;RUR
+https://bas-ip.su/catalog/aksessuary/sh-47t-silver;SH-47T SILVER;4;6840;RUR
+https://bas-ip.su/catalog/aksessuary/sh-47t-black;SH-47T BLACK;4;6840;RUR
+https://bas-ip.su/catalog/aksessuary/sh-01e;SH-01E;4;3;EUR
+https://bas-ip.su/catalog/aksessuary/sh-03;SH-03;4;1080;RUR
+https://bas-ip.su/catalog/aksessuary/sp-sp-white;SP-SP WHITE;4;2070;RUR
+https://bas-ip.su/catalog/aksessuary/sp-sp-black;SP-SP BLACK;4;2070;RUR
+https://bas-ip.su/catalog/aksessuary/sp-au-white;SP-AU WHITE;4;2070;RUR
+https://bas-ip.su/catalog/aksessuary/sp-au-black;SP-AU BLACK;4;2070;RUR
+https://bas-ip.su/catalog/aksessuary/cr-02bd-black;CR-02BD BLACK;4;26550;RUR
+https://bas-ip.su/catalog/aksessuary/cr-02bd-silver;CR-02BD SILVER;4;26550;RUR
+https://bas-ip.su/catalog/aksessuary/cr-02bd-gold;CR-02BD GOLD;4;26550;RUR
+https://bas-ip.su/catalog/aksessuary/sh-2016;SH-20.16;4;22860;RUR
+https://bas-ip.su/catalog/aksessuary/sh-208;SH-20.8;4;9450;RUR
+https://bas-ip.su/catalog/aksessuary/sh-204;SH-20.4;4;5220;RUR
+https://bas-ip.su/catalog/aksessuary/sh-40;SH-40;4;1045;RUR
+https://bas-ip.su/catalog/aksessuary/evrc-ip;EVRC-IP;4;50850;RUR
+https://bas-ip.su/catalog/aksessuary/bme-03;BME-03;4;11790;RUR
+https://bas-ip.su/catalog/aksessuary/ups-dp-s;UPS-DP/S;4;6480;RUR
+https://bas-ip.su/catalog/aksessuary/sh-42;SH-42;4;1620;RUR
+https://bas-ip.su/catalog/aksessuary/br-sh45-black;BR-SH45 BLACK;4;3690;RUR
+https://bas-ip.su/catalog/aksessuary/br-sh45-silver;BR-SH45 SILVER;4;3690;RUR
+https://bas-ip.su/catalog/aksessuary/br-av2-silver;BR-AV2 SILVER;4;6570;RUR
+https://bas-ip.su/catalog/aksessuary/br-av2-black;BR-AV2 BLACK;4;6570;RUR
+https://bas-ip.su/catalog/aksessuary/br-av;BR-AV;4;6570;RUR
+https://bas-ip.su/catalog/aksessuary/br-av2;BR-AV2;4;6570;RUR
+https://bas-ip.su/catalog/aksessuary/br-av7-black;BR-AV7 BLACK;4;25;EUR
+https://bas-ip.su/catalog/aksessuary/br-av7-silver;BR-AV7 SILVER;4;25;EUR
+https://bas-ip.su/catalog/aksessuary/br-aa-stainless;BR-AA STAINLESS;4;12600;RUR
+https://bas-ip.su/catalog/aksessuary/br-aa;BR-AA;4;12600;RUR
+https://bas-ip.su/catalog/aksessuary/br-aa12-silver;BR-AA12 SILVER;4;9900;RUR
+https://bas-ip.su/catalog/aksessuary/br-aa12-black;BR-AA12 BLACK;4;9900;RUR
+https://bas-ip.su/catalog/aksessuary/br-aa12-gold;BR-AA12 GOLD;4;9900;RUR
+https://bas-ip.su/catalog/aksessuary/br-aa14-silver;BR-AA14 SILVER;4;9900;RUR
+https://bas-ip.su/catalog/aksessuary/br-aa14-black;BR-AA14 BLACK;4;9900;RUR
+https://bas-ip.su/catalog/aksessuary/br-aa14-gold;BR-AA14 GOLD;4;9900;RUR
+https://bas-ip.su/catalog/aksessuary/bf-ba;BF-BA;4;26;EUR
+https://bas-ip.su/catalog/aksessuary/bf-av7;BF-AV7;4;12;EUR
+https://bas-ip.su/catalog/ip-domofony/at-10-black;AT-10 BLACK;11;45450;RUR
+https://bas-ip.su/catalog/ip-domofony/at-10-white;AT-10 WHITE;1;45450;RUR
+https://bas-ip.su/catalog/ip-domofony/at-10-gold;AT-10 GOLD;1;45450;RUR
+https://bas-ip.su/catalog/ip-domofony/aq-07ll-black;AQ-07LL BLACK;1;16650;RUR
+https://bas-ip.su/catalog/ip-domofony/aq-07ll-white;AQ-07LL WHITE;1;16650;RUR
+https://bas-ip.su/catalog/aksessuary/sh-45e-black;SH-45E BLACK;4;4860;RUR
+https://bas-ip.su/catalog/aksessuary/sh-45e-silver;SH-45E SILVER;4;54;EUR
+https://bas-ip.su/catalog/aksessuary/sh-02m-red;SH-02M RED;4;495;RUR
+https://bas-ip.su/catalog/aksessuary/br-av2-gold;BR-AV2 GOLD;4;6570;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/aa-07bd-silver;AA-07BD SILVER;2;53910;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/aa-07fb-silver;AA-07FB SILVER;2;71910;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-05sd-silver;AV-05SD SILVER;2;22950;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-05sd-black;AV-05SD BLACK;2;22950;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-05sd-gold;AV-05SD GOLD;2;22950;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-05fd-silver;AV-05FD SILVER;2;22950;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-05fd-black;AV-05FD BLACK;2;22950;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-05fd-gold;AV-05FD GOLD;2;22950;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-08fb-silver;AV-08FB SILVER;2;38250;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-08fb-gold;AV-08FB GOLD;2;38250;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-08fb-black;AV-08FB BLACK;2;38250;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-01md-grey;AV-01MD GRЕY;2;17000;RUR
+https://bas-ip.su/catalog/sistema-svyazi/cm-01-silver;CM-01 SILVER;3;1367;EUR
+https://bas-ip.su/catalog/ip-domofony/au-04la-black;AU-04LA BLACK;1;11610;RUR
+https://bas-ip.su/catalog/ip-domofony/au-04la-white;AU-04LA WHITE;1;11610;RUR
+https://bas-ip.su/catalog/ip-domofony/am-02-black;AM-02 BLACK;1;64800;RUR
+https://bas-ip.su/catalog/ip-domofony/at-07l-black;AT-07L BLACK;1;31950;RUR
+https://bas-ip.su/catalog/ip-domofony/at-07l-white;AT-07L WHITE;1;31950;RUR
+https://bas-ip.su/catalog/ip-domofony/at-07l-silver;AT-07L SILVER;1;31950;RUR
+https://bas-ip.su/catalog/ip-domofony/sp-03-white;SP-03 WHITE;1;8010;RUR
+https://bas-ip.su/catalog/ip-domofony/sp-03-black;SP-03 BLACK;1;8010;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/aa-11b-silver;AA-11B SILVER;2;53550;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/aa-11bv-silver;AA-11BV SILVER;2;53550;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/aa-12fb-black;AA-12FB BLACK;2;80100;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/aa-12fb-gold;AA-12FB GOLD;2;80100;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/aa-12fb-silver;AA-12FB SILVER;2;80100;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/aa-14fb-silver;AA-14FB SILVER;2;116550;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/aa-14fb-black;AA-14FB BLACK;2;116550;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/aa-14fb-gold;AA-14FB GOLD;2;116550;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-01bd-gray;AV-01BD GRЕY;2;30870;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-01kd-gray;AV-01KD GRЕY;2;17000;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-01mfd-gray;AV-01MFD GRЕY;2;17000;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-03bd-black;AV-03BD BLACK;2;26550;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-03bd-silver;AV-03BD SILVER;2;26550;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-03d-black;AV-03D BLACK;2;16650;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-03d-silver;AV-03D SILVER;2;16650;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-04fd-silver;AV-04FD SILVER;2;20160;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-04sd-silver;AV-04SD SILVER;2;20160;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-04afd-silver;AV-04AFD SILVER;2;18540;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-04afd-red;AV-04AFD RED;2;18540;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-04afd-green;AV-04AFD GREEN;2;18540;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/ba-04bd-silver;BA-04BD SILVER;2;47250;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/ba-08b-silver;BA-08B SILVER;2;455;EUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/bi-02fb-gold;BI-02FB GOLD;2;74880;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/bi-02fb-black;BI-02FB BLACK;2;74880;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/bi-02fb-silver;BI-02FB SILVER;2;74880;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/bi-04fb-black;BI-04FB BLACK;2;74880;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/bi-04fb-gold;BI-04FB GOLD;2;74880;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/bi-04fb-silver;BI-04FB SILVER;2;74880;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/bi-08fb-black;BI-08FB BLACK;2;75870;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/bi-08fb-gold;BI-08FB GOLD;2;75870;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/bi-08fb-silver;BI-08FB SILVER;2;75870;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/bi-12fb-black;BI-12FB BLACK;2;76050;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/bi-12fb-gold;BI-12FB GOLD;2;76050;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/bi-12fb-silver;BI-12FB SILVER;2;76050;RUR
+https://bas-ip.su/catalog/sistema-svyazi/cv-01fd-silver;CV-01FD SILVER;3;346;EUR
+https://bas-ip.su/catalog/sistema-svyazi/cv-01sd-silver;CV-01SD SILVER;3;346;EUR
+https://bas-ip.su/catalog/sistema-svyazi/cv-02fd-silver;CV-02FD SILVER;3;361;EUR
+https://bas-ip.su/catalog/sistema-svyazi/cv-02sd-silver;CV-02SD SILVER;3;361;EUR
+https://bas-ip.su/catalog/aksessuary/sh-46t-black;SH-46T BLACK;4;7290;RUR
+https://bas-ip.su/catalog/aksessuary/sh-46t-silver;SH-46T SILVER;4;7290;RUR
+https://bas-ip.su/catalog/aksessuary/sh-45tr-silver;SH-45TR SILVER;4;7200;RUR
+https://bas-ip.su/catalog/aksessuary/sh-45tr-black;SH-45TR BLACK;4;7200;RUR
+https://bas-ip.su/catalog/aksessuary/sh-45r-silver;SH-45R SILVER;4;7200;RUR
+https://bas-ip.su/catalog/aksessuary/sh-45r-black;SH-45R BLACK;4;7200;RUR
+https://bas-ip.su/catalog/aksessuary/sh-47t-silver;SH-47T SILVER;4;6840;RUR
+https://bas-ip.su/catalog/aksessuary/sh-47t-black;SH-47T BLACK;4;6840;RUR
+https://bas-ip.su/catalog/aksessuary/sh-01e;SH-01E;4;3;EUR
+https://bas-ip.su/catalog/aksessuary/sh-03;SH-03;4;1080;RUR
+https://bas-ip.su/catalog/aksessuary/sp-sp-white;SP-SP WHITE;4;2070;RUR
+https://bas-ip.su/catalog/aksessuary/sp-sp-black;SP-SP BLACK;4;2070;RUR
+https://bas-ip.su/catalog/aksessuary/sp-au-white;SP-AU WHITE;4;2070;RUR
+https://bas-ip.su/catalog/aksessuary/sp-au-black;SP-AU BLACK;4;2070;RUR
+https://bas-ip.su/catalog/aksessuary/cr-02bd-black;CR-02BD BLACK;4;26550;RUR
+https://bas-ip.su/catalog/aksessuary/cr-02bd-silver;CR-02BD SILVER;4;26550;RUR
+https://bas-ip.su/catalog/aksessuary/cr-02bd-gold;CR-02BD GOLD;4;26550;RUR
+https://bas-ip.su/catalog/aksessuary/sh-2016;SH-20.16;4;22860;RUR
+https://bas-ip.su/catalog/aksessuary/sh-208;SH-20.8;4;9450;RUR
+https://bas-ip.su/catalog/aksessuary/sh-204;SH-20.4;4;5220;RUR
+https://bas-ip.su/catalog/aksessuary/sh-40;SH-40;4;1045;RUR
+https://bas-ip.su/catalog/aksessuary/evrc-ip;EVRC-IP;4;50850;RUR
+https://bas-ip.su/catalog/aksessuary/bme-03;BME-03;4;11790;RUR
+https://bas-ip.su/catalog/aksessuary/ups-dp-s;UPS-DP/S;4;6480;RUR
+https://bas-ip.su/catalog/aksessuary/sh-42;SH-42;4;1620;RUR
+https://bas-ip.su/catalog/aksessuary/br-sh45-black;BR-SH45 BLACK;4;3690;RUR
+https://bas-ip.su/catalog/aksessuary/br-sh45-silver;BR-SH45 SILVER;4;3690;RUR
+https://bas-ip.su/catalog/aksessuary/br-av2-silver;BR-AV2 SILVER;4;6570;RUR
+https://bas-ip.su/catalog/aksessuary/br-av2-black;BR-AV2 BLACK;4;6570;RUR
+https://bas-ip.su/catalog/aksessuary/br-av;BR-AV;4;6570;RUR
+https://bas-ip.su/catalog/aksessuary/br-av2;BR-AV2;4;6570;RUR
+https://bas-ip.su/catalog/aksessuary/br-av7-black;BR-AV7 BLACK;4;25;EUR
+https://bas-ip.su/catalog/aksessuary/br-av7-silver;BR-AV7 SILVER;4;25;EUR
+https://bas-ip.su/catalog/aksessuary/br-aa-stainless;BR-AA STAINLESS;4;12600;RUR
+https://bas-ip.su/catalog/aksessuary/br-aa;BR-AA;4;12600;RUR
+https://bas-ip.su/catalog/aksessuary/br-aa12-silver;BR-AA12 SILVER;4;9900;RUR
+https://bas-ip.su/catalog/aksessuary/br-aa12-black;BR-AA12 BLACK;4;9900;RUR
+https://bas-ip.su/catalog/aksessuary/br-aa12-gold;BR-AA12 GOLD;4;9900;RUR
+https://bas-ip.su/catalog/aksessuary/br-aa14-silver;BR-AA14 SILVER;4;9900;RUR
+https://bas-ip.su/catalog/aksessuary/br-aa14-black;BR-AA14 BLACK;4;9900;RUR
+https://bas-ip.su/catalog/aksessuary/br-aa14-gold;BR-AA14 GOLD;4;9900;RUR
+https://bas-ip.su/catalog/aksessuary/bf-ba;BF-BA;4;26;EUR
+https://bas-ip.su/catalog/aksessuary/bf-av7;BF-AV7;4;12;EUR
+https://bas-ip.su/catalog/ip-domofony/at-10-black;AT-10 BLACK;11;45450;RUR
+https://bas-ip.su/catalog/ip-domofony/at-10-white;AT-10 WHITE;1;45450;RUR
+https://bas-ip.su/catalog/ip-domofony/at-10-gold;AT-10 GOLD;1;45450;RUR
+https://bas-ip.su/catalog/ip-domofony/aq-07ll-black;AQ-07LL BLACK;1;16650;RUR
+https://bas-ip.su/catalog/ip-domofony/aq-07ll-white;AQ-07LL WHITE;1;16650;RUR
+https://bas-ip.su/catalog/aksessuary/sh-45e-black;SH-45E BLACK;4;4860;RUR
+https://bas-ip.su/catalog/aksessuary/sh-45e-silver;SH-45E SILVER;4;54;EUR
+https://bas-ip.su/catalog/aksessuary/sh-02m-red;SH-02M RED;4;495;RUR
+https://bas-ip.su/catalog/aksessuary/br-av2-gold;BR-AV2 GOLD;4;6570;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/aa-07bd-silver;AA-07BD SILVER;2;53910;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/aa-07fb-silver;AA-07FB SILVER;2;71910;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-05sd-silver;AV-05SD SILVER;2;22950;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-05sd-black;AV-05SD BLACK;2;22950;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-05sd-gold;AV-05SD GOLD;2;22950;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-05fd-silver;AV-05FD SILVER;2;22950;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-05fd-black;AV-05FD BLACK;2;22950;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-05fd-gold;AV-05FD GOLD;2;22950;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-08fb-silver;AV-08FB SILVER;2;38250;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-08fb-gold;AV-08FB GOLD;2;38250;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-08fb-black;AV-08FB BLACK;2;38250;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-01md-grey;AV-01MD GRЕY;2;17000;RUR
+https://bas-ip.su/catalog/sistema-svyazi/cm-01-silver;CM-01 SILVER;3;1367;EUR
+https://bas-ip.su/catalog/ip-domofony/au-04la-black;AU-04LA BLACK;1;11610;RUR
+https://bas-ip.su/catalog/ip-domofony/au-04la-black;AU-04LA BLACK;1;11610;RUR
+https://bas-ip.su/catalog/ip-domofony/au-04la-white;AU-04LA WHITE;1;11610;RUR
+https://bas-ip.su/catalog/ip-domofony/au-04la-white;AU-04LA WHITE;1;11610;RUR
+https://bas-ip.su/catalog/ip-domofony/am-02-black;AM-02 BLACK;1;64800;RUR
+https://bas-ip.su/catalog/ip-domofony/am-02-black;AM-02 BLACK;1;64800;RUR
+https://bas-ip.su/catalog/ip-domofony/at-07l-black;AT-07L BLACK;1;31950;RUR
+https://bas-ip.su/catalog/ip-domofony/at-07l-black;AT-07L BLACK;1;31950;RUR
+https://bas-ip.su/catalog/ip-domofony/at-07l-white;AT-07L WHITE;1;31950;RUR
+https://bas-ip.su/catalog/ip-domofony/at-07l-white;AT-07L WHITE;1;31950;RUR
+https://bas-ip.su/catalog/ip-domofony/at-07l-silver;AT-07L SILVER;1;31950;RUR
+https://bas-ip.su/catalog/ip-domofony/at-07l-silver;AT-07L SILVER;1;31950;RUR
+https://bas-ip.su/catalog/ip-domofony/sp-03-white;SP-03 WHITE;1;8010;RUR
+https://bas-ip.su/catalog/ip-domofony/sp-03-white;SP-03 WHITE;1;8010;RUR
+https://bas-ip.su/catalog/ip-domofony/sp-03-black;SP-03 BLACK;1;8010;RUR
+https://bas-ip.su/catalog/ip-domofony/sp-03-black;SP-03 BLACK;1;8010;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/aa-11b-silver;AA-11B SILVER;2;53550;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/aa-11bv-silver;AA-11BV SILVER;2;53550;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/aa-12fb-black;AA-12FB BLACK;2;80100;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/aa-12fb-gold;AA-12FB GOLD;2;80100;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/aa-12fb-silver;AA-12FB SILVER;2;80100;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/aa-14fb-silver;AA-14FB SILVER;2;116550;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/aa-14fb-black;AA-14FB BLACK;2;116550;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/aa-14fb-gold;AA-14FB GOLD;2;116550;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-01bd-gray;AV-01BD GRЕY;2;30870;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-01kd-gray;AV-01KD GRЕY;2;17000;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-01mfd-gray;AV-01MFD GRЕY;2;17000;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-03bd-black;AV-03BD BLACK;2;26550;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-03bd-silver;AV-03BD SILVER;2;26550;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-03d-black;AV-03D BLACK;2;16650;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-03d-silver;AV-03D SILVER;2;16650;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-04fd-silver;AV-04FD SILVER;2;20160;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-04sd-silver;AV-04SD SILVER;2;20160;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-04afd-silver;AV-04AFD SILVER;2;18540;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-04afd-red;AV-04AFD RED;2;18540;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-04afd-green;AV-04AFD GREEN;2;18540;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/ba-04bd-silver;BA-04BD SILVER;2;47250;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/ba-08b-silver;BA-08B SILVER;2;455;EUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/bi-02fb-gold;BI-02FB GOLD;2;74880;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/bi-02fb-black;BI-02FB BLACK;2;74880;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/bi-02fb-silver;BI-02FB SILVER;2;74880;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/bi-04fb-black;BI-04FB BLACK;2;74880;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/bi-04fb-gold;BI-04FB GOLD;2;74880;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/bi-04fb-silver;BI-04FB SILVER;2;74880;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/bi-08fb-black;BI-08FB BLACK;2;75870;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/bi-08fb-gold;BI-08FB GOLD;2;75870;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/bi-08fb-silver;BI-08FB SILVER;2;75870;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/bi-12fb-black;BI-12FB BLACK;2;76050;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/bi-12fb-gold;BI-12FB GOLD;2;76050;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/bi-12fb-silver;BI-12FB SILVER;2;76050;RUR
+https://bas-ip.su/catalog/sistema-svyazi/cv-01fd-silver;CV-01FD SILVER;3;346;EUR
+https://bas-ip.su/catalog/sistema-svyazi/cv-01sd-silver;CV-01SD SILVER;3;346;EUR
+https://bas-ip.su/catalog/sistema-svyazi/cv-02fd-silver;CV-02FD SILVER;3;361;EUR
+https://bas-ip.su/catalog/sistema-svyazi/cv-02sd-silver;CV-02SD SILVER;3;361;EUR
+https://bas-ip.su/catalog/aksessuary/sh-46t-black;SH-46T BLACK;4;7290;RUR
+https://bas-ip.su/catalog/aksessuary/sh-46t-silver;SH-46T SILVER;4;7290;RUR
+https://bas-ip.su/catalog/aksessuary/sh-45tr-silver;SH-45TR SILVER;4;7200;RUR
+https://bas-ip.su/catalog/aksessuary/sh-45tr-black;SH-45TR BLACK;4;7200;RUR
+https://bas-ip.su/catalog/aksessuary/sh-45r-silver;SH-45R SILVER;4;7200;RUR
+https://bas-ip.su/catalog/aksessuary/sh-45r-black;SH-45R BLACK;4;7200;RUR
+https://bas-ip.su/catalog/aksessuary/sh-47t-silver;SH-47T SILVER;4;6840;RUR
+https://bas-ip.su/catalog/aksessuary/sh-47t-black;SH-47T BLACK;4;6840;RUR
+https://bas-ip.su/catalog/aksessuary/sh-01e;SH-01E;4;3;EUR
+https://bas-ip.su/catalog/aksessuary/sh-03;SH-03;4;1080;RUR
+https://bas-ip.su/catalog/aksessuary/sp-sp-white;SP-SP WHITE;4;2070;RUR
+https://bas-ip.su/catalog/aksessuary/sp-sp-black;SP-SP BLACK;4;2070;RUR
+https://bas-ip.su/catalog/aksessuary/sp-au-white;SP-AU WHITE;4;2070;RUR
+https://bas-ip.su/catalog/aksessuary/sp-au-black;SP-AU BLACK;4;2070;RUR
+https://bas-ip.su/catalog/aksessuary/cr-02bd-black;CR-02BD BLACK;4;26550;RUR
+https://bas-ip.su/catalog/aksessuary/cr-02bd-silver;CR-02BD SILVER;4;26550;RUR
+https://bas-ip.su/catalog/aksessuary/cr-02bd-gold;CR-02BD GOLD;4;26550;RUR
+https://bas-ip.su/catalog/aksessuary/sh-2016;SH-20.16;4;22860;RUR
+https://bas-ip.su/catalog/aksessuary/sh-208;SH-20.8;4;9450;RUR
+https://bas-ip.su/catalog/aksessuary/sh-204;SH-20.4;4;5220;RUR
+https://bas-ip.su/catalog/aksessuary/sh-40;SH-40;4;1045;RUR
+https://bas-ip.su/catalog/aksessuary/evrc-ip;EVRC-IP;4;50850;RUR
+https://bas-ip.su/catalog/aksessuary/bme-03;BME-03;4;11790;RUR
+https://bas-ip.su/catalog/aksessuary/ups-dp-s;UPS-DP/S;4;6480;RUR
+https://bas-ip.su/catalog/aksessuary/sh-42;SH-42;4;1620;RUR
+https://bas-ip.su/catalog/aksessuary/br-sh45-black;BR-SH45 BLACK;4;3690;RUR
+https://bas-ip.su/catalog/aksessuary/br-sh45-silver;BR-SH45 SILVER;4;3690;RUR
+https://bas-ip.su/catalog/aksessuary/br-av2-silver;BR-AV2 SILVER;4;6570;RUR
+https://bas-ip.su/catalog/aksessuary/br-av2-black;BR-AV2 BLACK;4;6570;RUR
+https://bas-ip.su/catalog/aksessuary/br-av;BR-AV;4;6570;RUR
+https://bas-ip.su/catalog/aksessuary/br-av2;BR-AV2;4;6570;RUR
+https://bas-ip.su/catalog/aksessuary/br-av7-black;BR-AV7 BLACK;4;25;EUR
+https://bas-ip.su/catalog/aksessuary/br-av7-silver;BR-AV7 SILVER;4;25;EUR
+https://bas-ip.su/catalog/aksessuary/br-aa-stainless;BR-AA STAINLESS;4;12600;RUR
+https://bas-ip.su/catalog/aksessuary/br-aa;BR-AA;4;12600;RUR
+https://bas-ip.su/catalog/aksessuary/br-aa12-silver;BR-AA12 SILVER;4;9900;RUR
+https://bas-ip.su/catalog/aksessuary/br-aa12-black;BR-AA12 BLACK;4;9900;RUR
+https://bas-ip.su/catalog/aksessuary/br-aa12-gold;BR-AA12 GOLD;4;9900;RUR
+https://bas-ip.su/catalog/aksessuary/br-aa14-silver;BR-AA14 SILVER;4;9900;RUR
+https://bas-ip.su/catalog/aksessuary/br-aa14-black;BR-AA14 BLACK;4;9900;RUR
+https://bas-ip.su/catalog/aksessuary/br-aa14-gold;BR-AA14 GOLD;4;9900;RUR
+https://bas-ip.su/catalog/aksessuary/bf-ba;BF-BA;4;26;EUR
+https://bas-ip.su/catalog/aksessuary/bf-av7;BF-AV7;4;12;EUR
+https://bas-ip.su/catalog/ip-domofony/at-10-black;AT-10 BLACK;11;45450;RUR
+https://bas-ip.su/catalog/ip-domofony/at-10-black;AT-10 BLACK;11;45450;RUR
+https://bas-ip.su/catalog/ip-domofony/at-10-white;AT-10 WHITE;1;45450;RUR
+https://bas-ip.su/catalog/ip-domofony/at-10-white;AT-10 WHITE;1;45450;RUR
+https://bas-ip.su/catalog/ip-domofony/at-10-gold;AT-10 GOLD;1;45450;RUR
+https://bas-ip.su/catalog/ip-domofony/at-10-gold;AT-10 GOLD;1;45450;RUR
+https://bas-ip.su/catalog/ip-domofony/aq-07ll-black;AQ-07LL BLACK;1;16650;RUR
+https://bas-ip.su/catalog/ip-domofony/aq-07ll-black;AQ-07LL BLACK;1;16650;RUR
+https://bas-ip.su/catalog/ip-domofony/aq-07ll-white;AQ-07LL WHITE;1;16650;RUR
+https://bas-ip.su/catalog/ip-domofony/aq-07ll-white;AQ-07LL WHITE;1;16650;RUR
+https://bas-ip.su/catalog/aksessuary/sh-45e-black;SH-45E BLACK;4;4860;RUR
+https://bas-ip.su/catalog/aksessuary/sh-45e-silver;SH-45E SILVER;4;54;EUR
+https://bas-ip.su/catalog/aksessuary/sh-02m-red;SH-02M RED;4;495;RUR
+https://bas-ip.su/catalog/aksessuary/br-av2-gold;BR-AV2 GOLD;4;6570;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/aa-07bd-silver;AA-07BD SILVER;2;53910;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/aa-07fb-silver;AA-07FB SILVER;2;71910;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-05sd-silver;AV-05SD SILVER;2;22950;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-05sd-black;AV-05SD BLACK;2;22950;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-05sd-gold;AV-05SD GOLD;2;22950;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-05fd-silver;AV-05FD SILVER;2;22950;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-05fd-black;AV-05FD BLACK;2;22950;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-05fd-gold;AV-05FD GOLD;2;22950;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-08fb-silver;AV-08FB SILVER;2;38250;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-08fb-gold;AV-08FB GOLD;2;38250;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-08fb-black;AV-08FB BLACK;2;38250;RUR
+https://bas-ip.su/catalog/vyzyvnye-paneli/av-01md-grey;AV-01MD GRЕY;2;17000;RUR
+https://bas-ip.su/catalog/ip-domofony/au-04la-black;AU-04LA BLACK;1;11610;RUR
+https://bas-ip.su/catalog/ip-domofony/au-04la-white;AU-04LA WHITE;1;11610;RUR
+https://bas-ip.su/catalog/ip-domofony/am-02-black;AM-02 BLACK;1;64800;RUR
+https://bas-ip.su/catalog/ip-domofony/at-07l-black;AT-07L BLACK;1;31950;RUR
+https://bas-ip.su/catalog/ip-domofony/at-07l-white;AT-07L WHITE;1;31950;RUR
+https://bas-ip.su/catalog/ip-domofony/at-07l-silver;AT-07L SILVER;1;31950;RUR
+https://bas-ip.su/catalog/ip-domofony/sp-03-white;SP-03 WHITE;1;8010;RUR
+https://bas-ip.su/catalog/ip-domofony/sp-03-black;SP-03 BLACK;1;8010;RUR
+https://bas-ip.su/catalog/ip-domofony/at-10-black;AT-10 BLACK;11;45450;RUR
+https://bas-ip.su/catalog/ip-domofony/at-10-white;AT-10 WHITE;1;45450;RUR
+https://bas-ip.su/catalog/ip-domofony/at-10-gold;AT-10 GOLD;1;45450;RUR
+https://bas-ip.su/catalog/ip-domofony/aq-07ll-black;AQ-07LL BLACK;1;16650;RUR
+https://bas-ip.su/catalog/ip-domofony/aq-07ll-white;AQ-07LL WHITE;1;16650;RUR
+https://bas-ip.su/catalog/ip-domofony/au-04la-black;AU-04LA BLACK;1;11610;RUR
+https://bas-ip.su/catalog/ip-domofony/au-04la-white;AU-04LA WHITE;1;11610;RUR
+https://bas-ip.su/catalog/ip-domofony/am-02-black;AM-02 BLACK;1;64800;RUR
+https://bas-ip.su/catalog/ip-domofony/at-07l-black;AT-07L BLACK;1;31950;RUR
+https://bas-ip.su/catalog/ip-domofony/at-07l-white;AT-07L WHITE;1;31950;RUR
+https://bas-ip.su/catalog/ip-domofony/at-07l-silver;AT-07L SILVER;1;31950;RUR
+https://bas-ip.su/catalog/ip-domofony/sp-03-white;SP-03 WHITE;1;8010;RUR
+https://bas-ip.su/catalog/ip-domofony/sp-03-black;SP-03 BLACK;1;8010;RUR
+https://bas-ip.su/catalog/ip-domofony/at-10-black;AT-10 BLACK;11;45450;RUR
+https://bas-ip.su/catalog/ip-domofony/at-10-white;AT-10 WHITE;1;45450;RUR
+https://bas-ip.su/catalog/ip-domofony/at-10-gold;AT-10 GOLD;1;45450;RUR
+https://bas-ip.su/catalog/ip-domofony/aq-07ll-black;AQ-07LL BLACK;1;16650;RUR
+https://bas-ip.su/catalog/ip-domofony/aq-07ll-white;AQ-07LL WHITE;1;16650;RUR
+https://bas-ip.su/catalog/ip-domofony/au-04la-black;AU-04LA BLACK;1;11610;RUR
+https://bas-ip.su/catalog/ip-domofony/au-04la-white;AU-04LA WHITE;1;11610;RUR
+https://bas-ip.su/catalog/ip-domofony/am-02-black;AM-02 BLACK;1;64800;RUR
+https://bas-ip.su/catalog/ip-domofony/at-07l-black;AT-07L BLACK;1;31950;RUR
+https://bas-ip.su/catalog/ip-domofony/at-07l-white;AT-07L WHITE;1;31950;RUR
+https://bas-ip.su/catalog/ip-domofony/at-07l-silver;AT-07L SILVER;1;31950;RUR
+https://bas-ip.su/catalog/ip-domofony/sp-03-white;SP-03 WHITE;1;8010;RUR
+https://bas-ip.su/catalog/ip-domofony/sp-03-black;SP-03 BLACK;1;8010;RUR
+https://bas-ip.su/catalog/ip-domofony/at-10-black;AT-10 BLACK;11;45450;RUR
+https://bas-ip.su/catalog/ip-domofony/at-10-white;AT-10 WHITE;1;45450;RUR
+https://bas-ip.su/catalog/ip-domofony/at-10-gold;AT-10 GOLD;1;45450;RUR
+https://bas-ip.su/catalog/ip-domofony/aq-07ll-black;AQ-07LL BLACK;1;16650;RUR
+https://bas-ip.su/catalog/ip-domofony/aq-07ll-white;AQ-07LL WHITE;1;16650;RUR
+https://bas-ip.su/catalog/ip-domofony/au-04la-black;AU-04LA BLACK;1;11610;RUR
+https://bas-ip.su/catalog/ip-domofony/au-04la-white;AU-04LA WHITE;1;11610;RUR
+https://bas-ip.su/catalog/ip-domofony/am-02-black;AM-02 BLACK;1;64800;RUR
+https://bas-ip.su/catalog/ip-domofony/at-07l-black;AT-07L BLACK;1;31950;RUR
+https://bas-ip.su/catalog/ip-domofony/at-07l-white;AT-07L WHITE;1;31950;RUR
+https://bas-ip.su/catalog/ip-domofony/at-07l-silver;AT-07L SILVER;1;31950;RUR
+https://bas-ip.su/catalog/ip-domofony/sp-03-white;SP-03 WHITE;1;8010;RUR
+https://bas-ip.su/catalog/ip-domofony/sp-03-black;SP-03 BLACK;1;8010;RUR
+https://bas-ip.su/catalog/ip-domofony/at-10-black;AT-10 BLACK;11;45450;RUR
+https://bas-ip.su/catalog/ip-domofony/at-10-white;AT-10 WHITE;1;45450;RUR
+https://bas-ip.su/catalog/ip-domofony/at-10-gold;AT-10 GOLD;1;45450;RUR
+https://bas-ip.su/catalog/ip-domofony/aq-07ll-black;AQ-07LL BLACK;1;16650;RUR
+https://bas-ip.su/catalog/ip-domofony/aq-07ll-white;AQ-07LL WHITE;1;16650;RUR
+https://bas-ip.su/catalog/ip-domofony/au-04la-black;AU-04LA BLACK;1;11610;RUR
+https://bas-ip.su/catalog/ip-domofony/au-04la-white;AU-04LA WHITE;1;11610;RUR
+https://bas-ip.su/catalog/ip-domofony/am-02-black;AM-02 BLACK;1;64800;RUR
+https://bas-ip.su/catalog/ip-domofony/at-07l-black;AT-07L BLACK;1;31950;RUR
+https://bas-ip.su/catalog/ip-domofony/at-07l-white;AT-07L WHITE;1;31950;RUR
+https://bas-ip.su/catalog/ip-domofony/at-07l-silver;AT-07L SILVER;1;31950;RUR
+https://bas-ip.su/catalog/ip-domofony/sp-03-white;SP-03 WHITE;1;8010;RUR
+https://bas-ip.su/catalog/ip-domofony/sp-03-black;SP-03 BLACK;1;8010;RUR
+https://bas-ip.su/catalog/ip-domofony/at-10-black;AT-10 BLACK;11;45450;RUR
+https://bas-ip.su/catalog/ip-domofony/at-10-white;AT-10 WHITE;1;45450;RUR
+https://bas-ip.su/catalog/ip-domofony/at-10-gold;AT-10 GOLD;1;45450;RUR
+https://bas-ip.su/catalog/ip-domofony/aq-07ll-black;AQ-07LL BLACK;1;16650;RUR
+https://bas-ip.su/catalog/ip-domofony/aq-07ll-white;AQ-07LL WHITE;1;16650;RUR
+https://bas-ip.su/catalog/ip-domofony/au-04la-black;AU-04LA BLACK;1;11610;RUR
+https://bas-ip.su/catalog/ip-domofony/au-04la-white;AU-04LA WHITE;1;11610;RUR
+https://bas-ip.su/catalog/ip-domofony/am-02-black;AM-02 BLACK;1;64800;RUR
+https://bas-ip.su/catalog/ip-domofony/at-07l-black;AT-07L BLACK;1;31950;RUR
+https://bas-ip.su/catalog/ip-domofony/at-07l-white;AT-07L WHITE;1;31950;RUR
+https://bas-ip.su/catalog/ip-domofony/at-07l-silver;AT-07L SILVER;1;31950;RUR
+https://bas-ip.su/catalog/ip-domofony/sp-03-white;SP-03 WHITE;1;8010;RUR
+https://bas-ip.su/catalog/ip-domofony/sp-03-black;SP-03 BLACK;1;8010;RUR
+https://bas-ip.su/catalog/ip-domofony/at-10-black;AT-10 BLACK;11;45450;RUR
+https://bas-ip.su/catalog/ip-domofony/at-10-white;AT-10 WHITE;1;45450;RUR
+https://bas-ip.su/catalog/ip-domofony/at-10-gold;AT-10 GOLD;1;45450;RUR
+https://bas-ip.su/catalog/ip-domofony/aq-07ll-black;AQ-07LL BLACK;1;16650;RUR
+https://bas-ip.su/catalog/ip-domofony/aq-07ll-white;AQ-07LL WHITE;1;16650;RUR
+https://bas-ip.su/catalog/ip-domofony/au-04la-black;AU-04LA BLACK;1;11610;RUR
+https://bas-ip.su/catalog/ip-domofony/au-04la-white;AU-04LA WHITE;1;11610;RUR
+https://bas-ip.su/catalog/ip-domofony/am-02-black;AM-02 BLACK;1;64800;RUR
+https://bas-ip.su/catalog/ip-domofony/at-07l-black;AT-07L BLACK;1;31950;RUR
+https://bas-ip.su/catalog/ip-domofony/at-07l-white;AT-07L WHITE;1;31950;RUR
+https://bas-ip.su/catalog/ip-domofony/at-07l-silver;AT-07L SILVER;1;31950;RUR
+https://bas-ip.su/catalog/ip-domofony/sp-03-white;SP-03 WHITE;1;8010;RUR
+https://bas-ip.su/catalog/ip-domofony/sp-03-black;SP-03 BLACK;1;8010;RUR
+https://bas-ip.su/catalog/ip-domofony/at-10-black;AT-10 BLACK;11;45450;RUR
+https://bas-ip.su/catalog/ip-domofony/at-10-white;AT-10 WHITE;1;45450;RUR
+https://bas-ip.su/catalog/ip-domofony/at-10-gold;AT-10 GOLD;1;45450;RUR
+https://bas-ip.su/catalog/ip-domofony/aq-07ll-black;AQ-07LL BLACK;1;16650;RUR
+https://bas-ip.su/catalog/ip-domofony/aq-07ll-white;AQ-07LL WHITE;1;16650;RUR

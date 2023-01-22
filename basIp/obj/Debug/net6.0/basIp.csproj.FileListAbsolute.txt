@@ -1,0 +1,17 @@
+D:\VisualStudio\repos\basIp\basIp\bin\Debug\net6.0\basIp.exe
+D:\VisualStudio\repos\basIp\basIp\bin\Debug\net6.0\basIp.deps.json
+D:\VisualStudio\repos\basIp\basIp\bin\Debug\net6.0\basIp.runtimeconfig.json
+D:\VisualStudio\repos\basIp\basIp\bin\Debug\net6.0\basIp.dll
+D:\VisualStudio\repos\basIp\basIp\bin\Debug\net6.0\ref\basIp.dll
+D:\VisualStudio\repos\basIp\basIp\bin\Debug\net6.0\basIp.pdb
+D:\VisualStudio\repos\basIp\basIp\obj\Debug\net6.0\basIp.csproj.AssemblyReference.cache
+D:\VisualStudio\repos\basIp\basIp\obj\Debug\net6.0\basIp.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio\repos\basIp\basIp\obj\Debug\net6.0\basIp.AssemblyInfoInputs.cache
+D:\VisualStudio\repos\basIp\basIp\obj\Debug\net6.0\basIp.AssemblyInfo.cs
+D:\VisualStudio\repos\basIp\basIp\obj\Debug\net6.0\basIp.csproj.CoreCompileInputs.cache
+D:\VisualStudio\repos\basIp\basIp\obj\Debug\net6.0\basIp.dll
+D:\VisualStudio\repos\basIp\basIp\obj\Debug\net6.0\ref\basIp.dll
+D:\VisualStudio\repos\basIp\basIp\obj\Debug\net6.0\basIp.pdb
+D:\VisualStudio\repos\basIp\basIp\obj\Debug\net6.0\basIp.genruntimeconfig.cache
+D:\VisualStudio\repos\basIp\basIp\bin\Debug\net6.0\Newtonsoft.Json.dll
+D:\VisualStudio\repos\basIp\basIp\obj\Debug\net6.0\basIp.csproj.CopyComplete
